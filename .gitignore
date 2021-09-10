@@ -1,0 +1,8 @@
+
+*.pyc
+*.sqlite3
+migrations/
+static/student_stat_img/*
+!static/student_stat_img/.keep
+static/teacher_stat_img/*
+!static/teacher_stat_img/.keep
